@@ -1,0 +1,75 @@
+
+        /* Estilos para o menu lateral */
+        .menu {
+            width: 250px;
+            background-color: #ffffff;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            overflow-x: hidden;
+            transition: 0.2s;
+            padding-top: 20px;
+            font-family: Calibri;
+            
+        }
+
+        .menu a {
+            padding: 16px 16px 16px 32px;
+            text-decoration: none;
+            font-size: 20px;
+            color: rgb(0, 0, 0);
+            display: block;
+            transition: 0.2s;
+            font-family: Calibri;
+        }
+
+        .menu a:hover {
+            background-color: #555;
+        }
+
+        /* Estilos para o conteúdo principal */
+        .content {
+            margin-left: 250px;
+            padding: 20px;
+            font-family: 'Calibri';
+            font-size: 20px
+            
+            
+       
+            
+        
+        }
+        .logo{
+            margin-left: 50px;
+            width: 150px;
+            height: 150px;
+        }
+    body{
+        
+        background-color:rgb(187, 185, 185);
+    
+    }
+    .titulo-menu{
+        font-size: 20px;
+        margin-left: 20px;
+    }
+    .visite{
+        text-align: center;
+    }
+
+    a:link {
+        text-decoration: none;
+        }
+      
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .links {
+        font-weight: 200;
+        font-size: 24px;
+        color: #b84207;
+        margin-bottom: 16px;
+
+      }
