@@ -73,13 +73,3 @@
         margin-bottom: 16px;
 
       }
-#myFooter {
-    display: none;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background-color: #333; /* Cor de fundo do footer, altere conforme necessário */
-    color: #fff; /* Cor do texto do footer, altere conforme necessário */
-    padding: 10px; /* Espaçamento interno para o conteúdo do footer, altere conforme necessário */
-    text-align: center; /* Alinhamento do texto no centro */
