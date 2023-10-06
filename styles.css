@@ -73,7 +73,8 @@
         margin-bottom: 16px;
 
       }
-.footer-fixed {
+#myFooter {
+    display: none;
     position: fixed;
     bottom: 0;
     left: 0;
@@ -82,4 +83,3 @@
     color: #fff; /* Cor do texto do footer, altere conforme necessário */
     padding: 10px; /* Espaçamento interno para o conteúdo do footer, altere conforme necessário */
     text-align: center; /* Alinhamento do texto no centro */
-}
