@@ -2,7 +2,7 @@
         /* Estilos para o menu lateral */
         .menu {
             width: 250px;
-            background-color: #ffffff;
+            background-color: #ff9250;
             height: 100%;
             position: fixed;
             top: 0;
@@ -11,7 +11,7 @@
             transition: 0.2s;
             padding-top: 20px;
             font-family: Calibri;
-            color: #ff9250;
+            
             
         }
 
